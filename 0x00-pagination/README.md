@@ -1,1 +1,1 @@
-# Solutions to tasks on 0x00. Pagination
+ My Solution for 0x00-pagination task 
